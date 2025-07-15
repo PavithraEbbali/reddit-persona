@@ -43,7 +43,7 @@ Follow these steps to set up and run the Reddit User Persona Generator on your l
 ### 📁 Step 1: Clone the GitHub Repository
 
 ```bash
-git clone https://github.com/your-username/reddit-persona.git
+git clone https://github.com/PavithraEbbali/reddit-persona.git
 cd reddit-persona
 ```
 
@@ -75,9 +75,6 @@ REDDIT_CLIENT_SECRET=your_reddit_secret
 REDDIT_USER_AGENT=your_app_name
 OPENAI_API_KEY=your_openai_api_key
 ```
-
-> ⚠️ Make sure this file is not uploaded to GitHub. It's already listed in `.gitignore`.
-
 ---
 
 ### ▶️ Step 4: Run the Script
@@ -92,6 +89,7 @@ When prompted, enter a Reddit profile URL, for example:
 
 ```ruby
 https://www.reddit.com/user/kojied/
+https://www.reddit.com/user/Hungry-Move-6603/ 
 ```
 
 ---
