@@ -121,7 +121,7 @@ Activity Summary:
 - {len(comments)} comments analyzed
 - Most active time: {most_active}
 
-Note: This is a basic analysis based on word frequency. For deeper psychological or interest-based insights, consider using an AI model like GPT or Claude.
+Note: This is a basic analysis based on word frequency.
 """
         return summary.strip()
 
